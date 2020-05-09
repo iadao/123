@@ -3,7 +3,7 @@
 """
 
 # For Maverick
-site_prefix = "/Blog-With-GitHub-Boilerplate/"
+site_prefix = "/123/"
 source_dir = "../src/"
 build_dir = "../dist/"
 index_page_size = 10
@@ -15,7 +15,7 @@ template = {
 }
 enable_jsdelivr = {
     "enabled": True,
-    "repo": "iadao/Blog-With-GitHub-Boilerplate@gh-pages"
+    "repo": "iadao/123@gh-pages"
 }
 
 # 站点设置
@@ -24,9 +24,9 @@ site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
 author = "阿道AA"
 email = "adao.me"
-author_homepage = "https://www.imalan.cn"
+author_homepage = "https://adao.me"
 description = "只坚持一种正义。我的正义。"
-key_words = ['Maverick', '熊猫小A', 'Galileo', 'blog']
+key_words = ['阿道博客', '', '', 'blog']
 language = 'zh-CN'
 external_links = [
 #    {
