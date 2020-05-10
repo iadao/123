@@ -110,7 +110,7 @@ cell 3 | cell 4
 ## Link Card
 
 [links]
-[AlanDecode](https://www.imalan.cn)+(https://secure.gravatar.com/avatar/1741a6eef5c824899e347e4afcbaa75d?s=200&r=G&d=)
+[adao](博客地址)+(头像地址)
 [/links]
 
 

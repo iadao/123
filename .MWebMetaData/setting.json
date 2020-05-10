@@ -1,0 +1,10 @@
+{
+  "name" : "github",
+  "fileExtension" : ".md",
+  "autoUploadInsertedImageKey" : "img-https:\/\/upload.qiniup.com",
+  "autoUploadInsertedImage" : false,
+  "folderType" : 10,
+  "mediaFloder" : "media",
+  "orderBy" : 0,
+  "newlinesToBR" : 0
+}
