@@ -1,4 +1,19 @@
-mac系统-亚马逊云EC2-密钥（免密码）登陆服务器
+---
+layout: post
+title: mac系统-亚马逊云EC2-密钥（免密码）登陆服务器
+slug: my-first-awesome-post
+date: 2019-12-17 20:34
+status: publish
+author: 阿道01
+categories: 
+  - 默认分类
+tags: 
+  - 博客
+  - ec2
+  -  亚马逊
+excerpt: 海外版本亚马逊云，服务器所在
+---
+
 ## 账号注册及服务器创建
 
 海外版本亚马逊云，服务器所在机房可以选择新加坡或者日本，速度相对快一些
