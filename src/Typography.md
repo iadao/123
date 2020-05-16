@@ -2,9 +2,9 @@
 layout: post
 title: Hello World!
 slug: typography
-date: 2019-12-18 16:50
+date: 2020/05/16 11:42:00
 status: publish
-author: AlanDecode
+author: 阿道
 categories: 
   - Maverick
 tags:
@@ -33,7 +33,7 @@ We are creating a world where anyone, anywhere may express his or her beliefs, n
 
 ## Inline elements
 
-**Bold**, {{Ruby:ルビ}}, *Italic*, ~~Strikethrough~~, [Link](https://www.imalan.cn)[^Home page for AlanDecode]。
+**Bold**, {{Ruby:ルビ}}, *Italic*, ~~Strikethrough~~, [Link]()[^Home page for AlanDecode]。
 
 ## Blockquote and nested blockquote
 

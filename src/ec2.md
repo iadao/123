@@ -2,9 +2,9 @@
 layout: post
 title: mac系统-亚马逊云EC2-密钥（免密码）登陆服务器
 slug: mac-ec2-password
-date: 2019-12-17 20:34
+date: 2020/05/16 11:42:00
 status: publish
-author: 阿道01
+author: 阿道
 categories: 
   - 默认分类
 tags: 
