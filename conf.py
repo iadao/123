@@ -19,14 +19,14 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "阿道"
+site_name = "阿道博客"
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "阿道AA"
+author = "阿道博客"
 email = "adao.me"
 author_homepage = "https://adao.me"
-description = "只坚持一种正义。我的正义。"
-key_words = ['阿道博客', '', '', 'blog']
+description = "将生活带给你的如柠檬的酸楚，酿成犹如柠檬汽水般的甘甜。"
+key_words = ['阿道博客', 'blog', '', '']
 language = 'zh-CN'
 external_links = [
 #    {
