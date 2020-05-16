@@ -19,10 +19,10 @@ enable_jsdelivr = {
 }
 
 # 站点设置
-site_name = "阿道"
+site_name = "阿道"  # 标题
 site_logo = "${static_prefix}logo.png"
 site_build_date = "2019-12-18T16:51+08:00"
-author = "阿道博客"
+author = "阿道博客" # 页脚
 email = "adao.me"
 author_homepage = "https://adao.me"
 description = "将生活带给你的如柠檬的酸楚，酿成犹如柠檬汽水般的甘甜。"
@@ -54,6 +54,11 @@ nav = [
     {
         "name": "关于",
         "url": "${site_prefix}about/",
+        "target": "_self"
+    }
+    {
+        "name": "测试",
+        "url": "${site_prefix}ceshi/",
         "target": "_self"
     }
 ]
