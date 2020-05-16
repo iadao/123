@@ -56,11 +56,6 @@ nav = [
         "url": "${site_prefix}about/",
         "target": "_self"
     }
-    {
-        "name": "测试",
-        "url": "${site_prefix}ceshi/",
-        "target": "_self"
-    }
 ]
 
 social_links = [
