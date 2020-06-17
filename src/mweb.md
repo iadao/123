@@ -1,7 +1,7 @@
 ---
 layout: post
 title: mweb发布测试
-slug: mac-ec2-password
+slug: mweb-fabu
 date: 2020/06/15 11:42:00
 status: publish
 author: 阿道
